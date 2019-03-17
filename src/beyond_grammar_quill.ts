@@ -7,7 +7,7 @@ import { ILanguage } from './interfaces/ILanguage';
 
 const settings = {
   service: {
-    apiKey:       "E8FEF7AE-3F36-4EAF-A451-456D05E6F2A3",
+    apiKey:       "89428115-D037-4DD7-8650-3528564D7E66",
     sourcePath:   '//cdn.prowritingaid.com/beyondgrammar/release/dist/hayt/bundle.js',
     serviceUrl:   '//rtg.prowritingaid.com'
   },

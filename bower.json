@@ -1,0 +1,17 @@
+{
+  "name": "beyond-grammar-quill",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Timothy Li <himynameistimli@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/prowriting/beyondgrammar-quill",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
